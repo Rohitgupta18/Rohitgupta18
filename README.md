@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohitgupta18&label=Profile%20views&color=0e75b6&style=flat" alt="rohitgupta18" /> </p>
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **React js**
 
 - 💬 Ask me about **javascript ,Blockchain**
 
