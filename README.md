@@ -1,14 +1,14 @@
 [![MasterHead](https://www.hays.com.au/documents/3173609/3716998/Image_Tech_Job_Software_Developer_LandingPage.jpg/482fcd02-18cd-7adc-69ec-2810709139af?t=1618902865233)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Rohit Gupta</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate full stack developer from India</h3>
 <image align="right" alt="coding" width="400" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/coding-freak.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohitgupta18&label=Profile%20views&color=0e75b6&style=flat" alt="rohitgupta18" /> </p>
 
-- 🌱 I’m currently learning **React js**
+- 🌱 I’m currently learning **Cloud Services**
 
-- 💬 Ask me about **javascript ,Blockchain**
+- 💬 Ask me about **Java Full-Stack , MERN STACK**
 
 - 📫 How to reach me **Rohitguptaa033@gmail.com**
 
